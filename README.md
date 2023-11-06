@@ -1,5 +1,5 @@
-### Olá eu sou Hermes Gabriel 😄
-<div style="display: flex;">
+## Olá eu sou Hermes Gabriel 😄
+
     <div style="display: inline-block; margin-right: 3px;">
         <img align:center alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </div>
@@ -23,7 +23,6 @@
     <div style="display: inline-block;">
         <img align:center alt="HTML 5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </div>
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermesgsc&layout=compact)
 
