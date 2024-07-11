@@ -1,5 +1,5 @@
 ### Olá, eu sou o Hermes Gabriel! ###
-# Tecnologias que uso #
+*** Tecnologias que uso ***
 - JavaScript
 - TypeScript
 - Nest.Js
