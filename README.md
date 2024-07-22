@@ -1,11 +1,13 @@
 # Olá, eu sou o Hermes Gabriel! #
  Tecnologias que uso 
-- JavaScript
 - TypeScript
 - Nest.Js
-- Next.Js
-- React.Js
+- JavaScript
 - Tailwind
+- React.Js
+- Next.Js
+- MongoDB
+- PostgreSQL
 
 
 <div class="widget">
