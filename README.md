@@ -2,10 +2,10 @@
  Tecnologias que uso 
 - TypeScript
 - Nest.Js
-- Tailwind
 - Prisma
 - MongoDB
 - PostgreSQL
+- Tailwind
 - React.Js
 - Next.Js
 
