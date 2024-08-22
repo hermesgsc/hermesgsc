@@ -3,7 +3,7 @@
 - TypeScript
 - Nest.Js
 - Prisma
-- MongoDB
+- MongoDB 
 - PostgreSQL
 - Tailwind
 - React.Js
