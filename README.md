@@ -19,6 +19,6 @@
 </div>
 
 <div class="widget">
+<img src ="https://wakapi.dev/api/activity/chart/hermes.svg"/>
 
 </div>
-img src ="https://wakapi.dev/api/activity/chart/hermes.svg"
