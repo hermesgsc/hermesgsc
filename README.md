@@ -18,7 +18,3 @@
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesgsc&layout=compact" alt="Top Langs"> -->
 </div>
 
-<div class="widget">
-<img src ="https://wakapi.dev/api/activity/chart/hermes.svg"/>
-
-</div>
