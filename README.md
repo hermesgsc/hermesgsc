@@ -26,5 +26,3 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hermes&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats">
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesgsc&layout=compact" alt="Top Langs"> -->
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([link-do-seu-linkedin](https://www.linkedin.com/in/hermes-gabriel-78410b232)) 
