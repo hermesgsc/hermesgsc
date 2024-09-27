@@ -28,7 +28,6 @@
     </a>
 </div>
 
-### 📈 Meu Código
 <div style="display: flex; justify-content: center; margin-top: 20px;">
     <a href="https://wakatime.com/@c60a6f66-e546-40d9-a33c-d511fa2c386b">
         <img src="https://wakatime.com/badge/user/c60a6f66-e546-40d9-a33c-d511fa2c386b.svg" alt="Total time coded since Jul 11 2024" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
