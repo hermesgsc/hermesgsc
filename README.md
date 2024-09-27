@@ -1,7 +1,7 @@
 # Olá, eu sou o Hermes Gabriel! 👋
 
 ### 🌟 Tecnologias que Uso 🚀
-<div style="display: flex; flex-wrap: wrap; gap: 30px; padding: 20px>
+<div>
     <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </a>
