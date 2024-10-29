@@ -27,8 +27,10 @@
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
     </a>
 </div>
-
-
+<p></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hermesgsc/count.svg?"  />
+</div>
 <p></p>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
