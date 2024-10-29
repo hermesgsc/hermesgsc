@@ -27,11 +27,9 @@
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
     </a>
 </div>
-<p></p>
-<div align="center">
+<div >
   <img src="https://profile-counter.glitch.me/hermesgsc/count.svg?"  />
 </div>
-<p></p>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
     <a href="https://wakatime.com/@c60a6f66-e546-40d9-a33c-d511fa2c386b">
