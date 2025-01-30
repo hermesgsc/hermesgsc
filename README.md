@@ -1,5 +1,5 @@
 # Olá, eu sou o Hermes Gabriel! 👋
-    
+
 ### 🌟 Tecnologias que Uso 🚀
 <div>
     <a href="https://www.typescriptlang.org/">
@@ -27,14 +27,19 @@
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
     </a>
 </div>
-<div >
-  <img src="https://profile-counter.glitch.me/hermesgsc/count.svg?"  />
-</div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-    <a href="https://wakatime.com/@c60a6f66-e546-40d9-a33c-d511fa2c386b">
-        <img src="https://wakatime.com/badge/user/c60a6f66-e546-40d9-a33c-d511fa2c386b.svg" alt="Total time coded since Jul 11 2024" />
-    </a>
-</div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hermes&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats" />
-</div>
+
+---
+
+### 📊 Estatísticas de Atividade
+
+<p align="start">
+  <img src="https://profile-counter.glitch.me/hermesgsc/count.svg?" alt="Contagem de Commits"/>
+</p>
+
+
+
+#### 🔥 Linguagens Mais Usadas
+<p align="start">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesgsc&layout=compact&theme=dark&" alt="Top Linguagens"/>
+</p>
+
