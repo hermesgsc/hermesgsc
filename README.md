@@ -30,15 +30,13 @@
 
 ---
 
-### 📊 Estatísticas de Atividade
-
 <p align="start">
   <img src="https://profile-counter.glitch.me/hermesgsc/count.svg?" alt="Contagem de Commits"/>
 </p>
 
 
 
-#### 🔥 Linguagens Mais Usadas
+### 🔥 Linguagens Mais Usadas
 <p align="start">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesgsc&layout=compact&theme=dark&" alt="Top Linguagens"/>
 </p>
